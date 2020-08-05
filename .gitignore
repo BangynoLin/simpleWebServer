@@ -1,0 +1,8 @@
+node_modules/
+3days_deposit/
+package-lock.json
+ReceivedSample.json
+DevicesMapping.js
+token.json
+credentials.json
+*.traineddata
